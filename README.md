@@ -4,4 +4,5 @@ Hello! I'm Dmytro, 18 y/o software developer, musician and writer. I'm study at 
 
 ## My projects
 1. [teloxide](https://github.com/teloxide/teloxide), an elegant Telegram bots framework for Rust.
-2. Soon...
+2. [teloc](https://github.com/teloxide/teloc), an IoC container written in Rust for `teloxide` project (but can be used anywhere). Under active development.
+3. Soon...
